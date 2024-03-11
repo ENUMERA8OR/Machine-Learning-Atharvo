@@ -9,6 +9,6 @@ Projects done so far:
 
 3. Face Detection
 
-4. Flask App for CSV Analysis
+4. Flask App for CSV Analysis using ML
 
 All codebase deservingly belongs to Atharvo.
