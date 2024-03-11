@@ -3,9 +3,9 @@ Python codebase showcasing my internship projects with Atharvo. Includes modules
 
 Projects done so far:
 
-1.Wine Quality Prediction
+1. Wine Quality Prediction
 
-2.Music Recemmoendation System using KNN
+2. Music Recemmoendation System using KNN
 
 3. Face Detection
 
