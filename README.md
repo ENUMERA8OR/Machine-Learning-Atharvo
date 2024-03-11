@@ -11,4 +11,4 @@ Projects done so far:
 
 4. Flask App for CSV Analysis using ML
 
-All codebase deservingly belongs to Atharvo.
+Besides minor optimizations here & there, all codebase deservingly belongs to Atharvo.
